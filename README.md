@@ -1,24 +1,23 @@
 <h1> Metode de dezvoltare software </h1>
 
-<h3>Grupa 353 - Ceausescu Ciprian Mihai - ciprianmihai94@gmail.com</h3>
+<h3>Grupa 353 - Ceaușescu Ciprian Mihai - ciprianmihai94@gmail.com</h3>
 
 <h3>Proiect - 3 puncte</h3>
 [Echipe](https://drive.google.com/open?id=1bgJ4wDuw5l4lOAAcQ-X6H5-1oYYOaC-wH4Ygkps6x_o)
-<br>
-<h4>Cerinte:</h4>
+<h4>Cerințe:</h4>
 <ol>
   <li>
-    (1p) Aplicatie MVC - folosind Entity Framework (C#) / Hibernate (Java).
+    (1p) Aplicație MVC - folosind Entity Framework (C#) / Hibernate (Java).
     <br>
-    Trebuie sa prezentati tema proiectului, specificatiile acestuia si detaliile de implementare.
+    Trebuie să prezentați tema proiectului, specificațiile acestuia și detaliile de implementare.
   </li>
   <li>
-    (1.5p) Servicii - fiecare membru al echipei trebuie sa realizeze un serviciu care sa functioneze independent (folosind orice limbaj de programare). Acesta va rula local, dar si in Cloud.
+    (1.5p) Servicii - fiecare membru al echipei trebuie să realizeze un serviciu care să funcționeze independent (folosind orice limbaj de programare). Acesta va rula local, dar și în Cloud.
     <br>
-    Aplicatia MVC trebuie modificata pentru a consuma aceste servicii realizate.
+    Aplicația MVC trebuie modificată pentru a consuma aceste servicii realizate.
   </li>
   <li>
-    (0.5p) Dificultatea proiectului.
+    (0.5p) Dificultatea proiectului. Se acordă cele 0.5p în funcție de dificultatea proiectului realizat.
   </li>
 </ol>
   
