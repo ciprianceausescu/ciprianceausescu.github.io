@@ -20,7 +20,15 @@
     (0.5p) Dificultatea proiectului. Se acordă cele 0.5p în funcție de dificultatea proiectului realizat.
   </li>
 </ol>
-  
+Deadlines: 
+<ul>
+  <li>Săptămâna 5 - idei + specificații.</li>
+  <li>Săptămâna 9 - MVC + prezentare.</li>
+  <li>Săptămâna 11 - 1 serviciu funcțional - deploy Cloud.</li>
+  <li>Săptămâna 13/14 - prezentare finală.</li>
+</ul>
+ 
 <br>
+<h3>Laborator</h3>
 <h3>MVC - Entity Framework</h3>
 [Link](https://drive.google.com/open?id=1PQiNpw6a8_aB5MhDIzPYmEMAom_LBfRJ)
