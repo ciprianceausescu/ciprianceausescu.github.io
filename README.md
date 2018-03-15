@@ -38,7 +38,7 @@ Deadlines:
 <h5>Eroare la conexiunea cu baza de date in proiectul de MVC<h5>
 In Web config, trebuie modificat String-ul de conexiune:
 <br>
-<add name="SchoolContext" connectionString="Data Source=(LocalDb)\MSSQLLocalDB;Initial Catalog=ContosoUniversity1;Integrated Security=SSPI;" providerName="System.Data.SqlClient"/>
+"<add name="SchoolContext" connectionString="Data Source=(LocalDb)\MSSQLLocalDB;Initial Catalog=ContosoUniversity1;Integrated Security=SSPI;" providerName="System.Data.SqlClient"/>"
 <br>
 Daca Controllerul a fost creat cu Students, trebuie modificata si ruta:
 <br>
