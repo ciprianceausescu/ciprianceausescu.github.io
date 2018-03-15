@@ -34,3 +34,12 @@ Deadlines:
 <h3>Laborator</h3>
 <h3>MVC - Entity Framework</h3>
 [Link](https://drive.google.com/open?id=1PQiNpw6a8_aB5MhDIzPYmEMAom_LBfRJ)
+<br>
+<h5>Eroare la conexiunea cu baza de date in proiectul de MVC<h5>
+In Web config, trebuie modificat String-ul de conexiune:
+<br>
+<add name="SchoolContext" connectionString="Data Source=(LocalDb)\MSSQLLocalDB;Initial Catalog=ContosoUniversity1;Integrated Security=SSPI;" providerName="System.Data.SqlClient"/>
+<br>
+Daca Controllerul a fost creat cu Students, trebuie modificata si ruta:
+<br>
+@Html.ActionLink("Students", "Index", "Students")
