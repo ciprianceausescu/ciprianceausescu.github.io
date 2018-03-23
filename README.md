@@ -43,3 +43,13 @@ connectionString="Data Source=(LocalDb)\MSSQLLocalDB;Initial Catalog=ContosoUniv
 Daca Controllerul a fost creat cu Students, trebuie modificata si ruta:
 <br>
 @Html.ActionLink("Students", "Index", "Students")
+<br>
+<br>
+<h3>MVC prezentare</h3>
+Prezentare MVC - folosind Slide-uri:
+<ul>
+  <li>Maxim 10 slide-uri</li>
+  <li>Putin text: maxim 2 randuri</li>
+  <li>Poze sugestive bine explicate</li>
+</ul>
+[Link](https://docs.google.com/spreadsheets/d/14hFtNLCf9ToXvEDCiXyEnTnyRwXxqq014D20BGYer90/edit?usp=sharing)
