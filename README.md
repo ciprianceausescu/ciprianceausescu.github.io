@@ -52,4 +52,4 @@ Prezentare MVC - folosind Slide-uri:
   <li>Putin text: maxim 2 randuri</li>
   <li>Poze sugestive bine explicate</li>
 </ul>
-[Link](https://docs.google.com/spreadsheets/d/14hFtNLCf9ToXvEDCiXyEnTnyRwXxqq014D20BGYer90/edit?usp=sharing)
+[Programare prezentare](https://docs.google.com/spreadsheets/d/14hFtNLCf9ToXvEDCiXyEnTnyRwXxqq014D20BGYer90/edit?usp=sharing)
