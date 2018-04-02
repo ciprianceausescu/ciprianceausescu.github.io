@@ -3,9 +3,9 @@
 <h3>Grupa 353 - Ceaușescu Ciprian Mihai - ciprianmihai94@gmail.com</h3>
 
 <h3>Proiect - 3 puncte</h3>
-[TFS with JAVA](https://www.youtube.com/watch?v=porFDKNPS2I)
+<a href="https://www.youtube.com/watch?v=porFDKNPS2I">TFS with JAVA</a>
 <br>
-[Echipe](https://drive.google.com/open?id=1bgJ4wDuw5l4lOAAcQ-X6H5-1oYYOaC-wH4Ygkps6x_o)
+<a href="https://drive.google.com/open?id=1bgJ4wDuw5l4lOAAcQ-X6H5-1oYYOaC-wH4Ygkps6x_o">Echipe</a>
 <h4>Cerințe:</h4>
 <ol>
   <li>
@@ -33,7 +33,7 @@ Deadlines:
 <br>
 <h3>Laborator</h3>
 <h3>MVC - Entity Framework</h3>
-[Link](https://drive.google.com/open?id=1PQiNpw6a8_aB5MhDIzPYmEMAom_LBfRJ)
+<a href="https://drive.google.com/open?id=1PQiNpw6a8_aB5MhDIzPYmEMAom_LBfRJ">EF Tutorial</a>
 <br>
 <h5>Eroare la conexiunea cu baza de date in proiectul de MVC<h5>
 In Web config, trebuie modificat String-ul de conexiune:
@@ -52,4 +52,4 @@ Prezentare MVC - folosind Slide-uri:
   <li>Putin text: maxim 2 randuri</li>
   <li>Poze sugestive bine explicate</li>
 </ul>
-[Programare prezentare](https://docs.google.com/spreadsheets/d/14hFtNLCf9ToXvEDCiXyEnTnyRwXxqq014D20BGYer90/edit?usp=sharing)
+<a href="https://docs.google.com/spreadsheets/d/14hFtNLCf9ToXvEDCiXyEnTnyRwXxqq014D20BGYer90/edit?usp=sharing">Programare prezentare</a>
