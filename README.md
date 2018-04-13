@@ -45,11 +45,7 @@ Daca Controllerul a fost creat cu Students, trebuie modificata si ruta:
 @Html.ActionLink("Students", "Index", "Students")
 <br>
 <br>
-<h3>MVC prezentare</h3>
-Prezentare MVC - folosind Slide-uri:
-<ul>
-  <li>Maxim 10 slide-uri</li>
-  <li>Putin text: maxim 2 randuri</li>
-  <li>Poze sugestive bine explicate</li>
-</ul>
-<a href="https://docs.google.com/spreadsheets/d/14hFtNLCf9ToXvEDCiXyEnTnyRwXxqq014D20BGYer90/edit?usp=sharing">Programare prezentare</a>
+<h3>Laborator Servicii</h3>
+<a href="https://docs.microsoft.com/en-us/dotnet/framework/wcf/getting-started-tutorial">Servicii</a>
+<br>
+<a href="http://wcftutorial.net/">WCF Tutorial</a>
