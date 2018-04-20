@@ -49,3 +49,6 @@ Daca Controllerul a fost creat cu Students, trebuie modificata si ruta:
 <a href="https://docs.microsoft.com/en-us/dotnet/framework/wcf/getting-started-tutorial">Servicii</a>
 <br>
 <a href="http://wcftutorial.net/">WCF Tutorial</a>
+<br>
+<h3>Laborator Servicii 2 </h3>
+<a href="https://msdn.microsoft.com/en-us/library/bb386386.aspx">WCF Tutorial</a>
