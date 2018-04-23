@@ -56,3 +56,8 @@ Daca Controllerul a fost creat cu Students, trebuie modificata si ruta:
 <h3>Laborator Servicii 3 </h3>
 Microservice development with ASP.NET Core, Docker, and Azure App Services
 <br>
+<h3>Docker</h3>
+Install and Configure SQL Server Docker Containers on Ubuntu Linux
+<br>
+<a href="https://training.docker.com/">Servicii 2</a>
+
