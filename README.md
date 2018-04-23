@@ -54,10 +54,12 @@ Daca Controllerul a fost creat cu Students, trebuie modificata si ruta:
 <a href="https://msdn.microsoft.com/en-us/library/bb386386.aspx">Servicii 2</a>
 <br>
 <h3>Laborator Servicii 3 </h3>
-Microservice development with ASP.NET Core, Docker, and Azure App Services
+LV: Microservice development with ASP.NET Core, Docker, and Azure App Services
 <br>
 <h3>Docker</h3>
-Install and Configure SQL Server Docker Containers on Ubuntu Linux
-<br>
 <a href="https://training.docker.com/">Training Docker</a>
+<br>
+LV: Install and Configure SQL Server Docker Containers on Ubuntu Linux
+<br>
+
 
