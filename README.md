@@ -56,6 +56,9 @@ Daca Controllerul a fost creat cu Students, trebuie modificata si ruta:
 <h3>Laborator Servicii 3 </h3>
 LV: Microservice development with ASP.NET Core, Docker, and Azure App Services
 <br>
+<h3>Github</h3>
+LV: Getting Started with Git using Team Foundation Server 2018
+<br>
 <h3>Docker</h3>
 <a href="https://training.docker.com/">Training Docker</a>
 <br>
