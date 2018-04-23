@@ -59,5 +59,5 @@ Microservice development with ASP.NET Core, Docker, and Azure App Services
 <h3>Docker</h3>
 Install and Configure SQL Server Docker Containers on Ubuntu Linux
 <br>
-<a href="https://training.docker.com/">Servicii 2</a>
+<a href="https://training.docker.com/">Training Docker</a>
 
