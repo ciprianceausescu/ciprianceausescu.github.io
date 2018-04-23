@@ -52,3 +52,7 @@ Daca Controllerul a fost creat cu Students, trebuie modificata si ruta:
 <br>
 <h3>Laborator Servicii 2 </h3>
 <a href="https://msdn.microsoft.com/en-us/library/bb386386.aspx">Servicii 2</a>
+<br>
+<h3>Laborator Servicii 3 </h3>
+Microservice development with ASP.NET Core, Docker, and Azure App Services
+<br>
