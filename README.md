@@ -68,6 +68,7 @@ LV: Install and Configure SQL Server Docker Containers on Ubuntu Linux
 <ol>
   <li><a href="https://www.tutorialspoint.com/restful/index.htm">REST Tutorial</a></li>
   <li><a href="https://memorynotfound.com/jax-ws-soap-web-service-example/">SOAP Example</a></li>
+  <li><a href="https://www.mkyong.com/webservices/jax-ws/jax-ws-hello-world-example-document-style/">JAX-WS Hello World Example</a></li>
 </ol>
 
 
