@@ -65,7 +65,6 @@ LV: Getting Started with Git using Team Foundation Server 2018
 LV: Install and Configure SQL Server Docker Containers on Ubuntu Linux
 <br>
 <h3>How to create services in Java?</h3>
-<br>
 <ol>
   <li><a href="https://www.tutorialspoint.com/restful/index.htm">REST Tutorial</a></li>
   <li><a href="https://memorynotfound.com/jax-ws-soap-web-service-example/">SOAP Example</a></li>
