@@ -64,6 +64,8 @@ LV: Getting Started with Git using Team Foundation Server 2018
 <br>
 LV: Install and Configure SQL Server Docker Containers on Ubuntu Linux
 <br>
+<a href="https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/docker-application-development-process/docker-app-development-workflow">Docker application development process</a>
+<br>
 <h3>How to create services in Java?</h3>
 <ol>
   <li><a href="https://www.tutorialspoint.com/restful/index.htm">REST Tutorial</a></li>
