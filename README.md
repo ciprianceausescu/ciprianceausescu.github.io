@@ -54,7 +54,9 @@ Daca Controllerul a fost creat cu Students, trebuie modificata si ruta:
 <a href="https://msdn.microsoft.com/en-us/library/bb386386.aspx">Servicii 2</a>
 <br>
 <h3>Laborator Servicii 3 </h3>
-LV: Microservice development with ASP.NET Core, Docker, and Azure App Services
+<a href="https://channel9.msdn.com/Blogs/OneCode/How-to-create-and-host-WCF-services-in-Azure">WCF in cloud</a>
+<br>
+LV: Microservice development with ASP.NET Core, Docker, and Azure App Services (problem with Docker).
 <br>
 <h3>Github</h3>
 LV: Getting Started with Git using Team Foundation Server 2018
