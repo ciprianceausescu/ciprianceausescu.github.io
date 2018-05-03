@@ -53,6 +53,8 @@ Daca Controllerul a fost creat cu Students, trebuie modificata si ruta:
 <h3>Laborator Servicii 2 </h3>
 <a href="https://msdn.microsoft.com/en-us/library/bb386386.aspx">Servicii 2</a>
 <br>
+<h3>CI / CD</h3>
+<a href="https://docs.microsoft.com/en-us/vsts/build-release/test/example-continuous-testing?view=vsts">CI CD Tutorial</a>
 <h3>Laborator Servicii 3 </h3>
 <a href="https://channel9.msdn.com/Blogs/OneCode/How-to-create-and-host-WCF-services-in-Azure">WCF in cloud</a>
 <br>
