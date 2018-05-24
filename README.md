@@ -29,6 +29,9 @@ Deadlines:
   <li>Săptămâna 11 - 1 serviciu funcțional - deploy Cloud.</li>
   <li>Săptămâna 13/14 - prezentare finală.</li>
 </ul>
+<br>
+<h3 style="color:red">Prezentare finală grupa 353 - Joi, 31 mai 2018, ora 18:00, conform programării:
+<a href="https://docs.google.com/spreadsheets/d/14hFtNLCf9ToXvEDCiXyEnTnyRwXxqq014D20BGYer90/edit?usp=sharing">Programare</a>
  
 <br>
 <h3>Laborator</h3>
