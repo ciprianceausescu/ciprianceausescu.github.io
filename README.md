@@ -33,7 +33,7 @@ Deadlines:
 <h3 style="color:red">Prezentare finală grupa 353 - Joi, 31 mai 2018, ora 18:00, conform programării:
 <a href="https://docs.google.com/spreadsheets/d/14hFtNLCf9ToXvEDCiXyEnTnyRwXxqq014D20BGYer90/edit?usp=sharing">Programare</a>
  
-<<br>
+<br>
 <h3>Laborator</h3>
 <h3>MVC - Entity Framework</h3>
 <a href="https://drive.google.com/open?id=1PQiNpw6a8_aB5MhDIzPYmEMAom_LBfRJ">EF Tutorial</a>
