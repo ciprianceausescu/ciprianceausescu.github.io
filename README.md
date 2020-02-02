@@ -1,8 +1,8 @@
-<!--<h1> Metode de dezvoltare software </h1>-->
+<h1> Metode de dezvoltare software </h1>
 
-<!--<h3>Grupa 353 - Ceaușescu Ciprian Mihai - ciprianmihai94@gmail.com</h3>-->
+<h3>Grupa 353 - Ceaușescu Ciprian Mihai - ciprianmihai94@gmail.com</h3>
 
-<!--<h3>Proiect - 3 puncte</h3>
+<h3>Proiect - 3 puncte</h3>
 <a href="https://www.youtube.com/watch?v=porFDKNPS2I">TFS with JAVA</a>
 <br>
 <a href="https://drive.google.com/open?id=1bgJ4wDuw5l4lOAAcQ-X6H5-1oYYOaC-wH4Ygkps6x_o">Echipe</a>
@@ -31,9 +31,9 @@ Deadlines:
 </ul>
 <br>
 <h3 style="color:red">Prezentare finală grupa 353 - Joi, 31 mai 2018, ora 18:00, conform programării:
-<a href="https://docs.google.com/spreadsheets/d/14hFtNLCf9ToXvEDCiXyEnTnyRwXxqq014D20BGYer90/edit?usp=sharing">Programare</a>-->
+<a href="https://docs.google.com/spreadsheets/d/14hFtNLCf9ToXvEDCiXyEnTnyRwXxqq014D20BGYer90/edit?usp=sharing">Programare</a>
  
-<!--<br>
+<<br>
 <h3>Laborator</h3>
 <h3>MVC - Entity Framework</h3>
 <a href="https://drive.google.com/open?id=1PQiNpw6a8_aB5MhDIzPYmEMAom_LBfRJ">EF Tutorial</a>
@@ -78,7 +78,4 @@ LV: Install and Configure SQL Server Docker Containers on Ubuntu Linux
   <li><a href="https://www.tutorialspoint.com/restful/index.htm">REST Tutorial</a></li>
   <li><a href="https://memorynotfound.com/jax-ws-soap-web-service-example/">SOAP Example</a></li>
   <li><a href="https://www.mkyong.com/webservices/jax-ws/jax-ws-hello-world-example-document-style/">JAX-WS Hello World Example</a></li>
-</ol>-->
-
-<h3 style="color:red">Master Thesis:
-<a href="https://drive.google.com/open?id=1pknKQZmO_uw5cGGzWW9RfSfzlT6Dtknv">Presentation</a>
+</ol>
